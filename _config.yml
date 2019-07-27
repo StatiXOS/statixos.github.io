@@ -1,5 +1,16 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: StatiXOS
+description: StatiXOS is a minimal Android ROM built for speed.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  github_url: https://github.com/StatiXOS
+  gapps_url: https://sourceforge.net/projects/statixos/files/gapps/
+  sargo_url: https://sourceforge.net/projects/statixos/files/sargo/
+  bonito_url: https://sourceforge.net/projects/statixos/files/bonito/
+  taimen_url: https://sourceforge.net/projects/statixos/files/taimen/
+  angler_url: https://sourceforge.net/projects/statixos/files/angler/
+  beryllium_url: https://sourceforge.net/projects/statixos/files/beryllium/
+  mata_url: https://sourceforge.net/projects/statixos/files/mata/
+  oneplus3_url: https://sourceforge.net/projects/statixos/files/oneplus3/
